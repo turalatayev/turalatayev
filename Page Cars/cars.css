@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: gray;
+}
+.banner img{
+    width: 1000px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.navbar{
+    width: 1000px;
+    height: 80px;
+    background-color: rgb(66, 65, 65);
+    border-radius: 8px;
+    margin-left: 300px;
+}
+.navbar ul{
+    margin-left: 60px;
+}
+.navbar ul li{
+    display: inline-block;
+}
+.navbar ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+    margin: 0 30px;
+    line-height: 70px;
+    padding: 8px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar ul li a:hover{
+    background-color: black;
+    transition: .4s;
+    border-radius: 8px;
+}
+.main{
+    width: 700px;
+    height: 1760px;
+    background-color: rgb(66, 65, 65);
+    margin-left: 300px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.merc{
+    width: 700px;
+    height: 420px;
+    background-color: rgb(19, 18, 18);
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.merc img{
+    width: 550px;
+    height: 358px;
+    margin-top: 20px;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.merc h2{
+    color: #fff;
+    margin-left: 15px;  
+}
+.bmw{
+    width: 700px;
+    height: 430px;
+    background-color: rgb(19, 18, 18);
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.bmw img{
+    width: 550px;
+    height: 366px;
+    margin-top: 20px;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.bmw h2{
+    color: #fff;
+    margin-left: 15px;  
+}
+.toyota{
+    width: 700px;
+    height: 430px;
+    background-color: rgb(19, 18, 18);
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.toyota img{
+    width: 550px;
+    height: 366px;
+    margin-top: 20px;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.toyota h2{
+    color: #fff;
+    margin-left: 15px;  
+}
+.opel{
+    width: 700px;
+    height: 430px;
+    background-color: rgb(19, 18, 18);
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.opel img{
+    width: 550px;
+    height: 366px;
+    margin-top: 20px;
+    margin-left: 5px;
+    border-radius: 8px;
+}
+.opel h2{
+    color: #fff;
+    margin-left: 15px;  
+}
+.sol{
+    width: 290px;
+    height: 1760px;
+    background-color: rgb(66, 65, 65);
+    position: absolute;
+    left: 1010px;
+    top: 505px;
+    border-radius: 8px;
+}
+.sol ul li{
+    list-style-type: none;
+}
+.sol ul li a{
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    line-height: 60px;
+    padding-left: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 100px;   
+}
+.sol ul li a:hover{
+    background-color: black;
+    transition: .3s;
+    border-radius: 8px;
+}
+.footer{
+    width: 1000px;
+    height: 300px;   
+    background-color: rgb(66, 65, 65);
+    margin-top: 20px;
+    margin-bottom: 30px; 
+    margin-left: 300px;
+    border-radius: 8px;
+}
+.footer img{
+    margin: 40px 0 0 50px;
+    width: 190px;
+    height: 190px;
+    border-radius: 8px;
+}
+.main2{
+    width: 700px;
+    height: 1760px;
+    background-color: rgb(66, 65, 65);
+    margin-left: 300px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.main2 img{
+    width: 680px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.main2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 10px;
+    color: #fff;
+}
+#diger{
+    background-color: transparent;
+    border: none;
+}
+#diger option{
+    background-color: gray;
+    color: #fff;
+
+}
+#diger select option:hover{
+    background-color: black;
+}
+
